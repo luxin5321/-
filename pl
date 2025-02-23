@@ -977,10 +977,6 @@ https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
 https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 #EXTINF:-1 tvg-name="GSTV" tvg-logo="https://i.imgur.com/ECnVG5I.png" tvg-id="GSTV.jp" group-title="Japan",GSTV
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
-#EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/xWSzQ34.png" tvg-id="QVC.jp" group-title="Japan",QVC
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/GTyQhBF.png" tvg-id="ShopChannel.jp" group-title="Japan",Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-name="ANN News" tvg-logo="https://i.imgur.com/9IVsFXz.png" tvg-id="JapaNews24.jp" group-title="Japan",ANN News
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
 #EXTINF:-1 tvg-name="Asahi Shimbun Digital" tvg-logo="https://i.imgur.com/DuGepQp.jpg" tvg-id="AsahiShimbunDigital.jp" group-title="Japan",Asahi Shimbun Digital
